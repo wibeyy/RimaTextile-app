@@ -1,0 +1,71 @@
+body {
+  background-color: #B8B5FF;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #fff;
+}
+
+.login {
+  padding: 1em;
+  margin: 2em auto;
+  width: 17em;
+  background: #fff;
+  border-radius: 3px;
+}
+
+label {
+  font-size: 10pt;
+  color: #468B97;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+}
+
+.tombol {
+  background: #ef9fa3;
+  color: #fff;
+  border: 0;
+  padding: 5px 8px;
+  margin: 20px 0px;
+}
+
+/* *{
+  margin:0;
+  padding :0;
+
+}
+.container{
+  width:80%;
+  margin: 0 auto;
+} */
+
+.ttd{
+  margin-top: 20px;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+
+
+.tmp{
+  text-align: right;
+  margin-bottom: 90px;
+  margin-right: 160px;
+}
+
+.kiri p{
+  margin: 0;
+}
+.kanan p{
+  margin: 0;
+}
